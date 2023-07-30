@@ -4,7 +4,7 @@
 - 💞️ I'd love to collaborate on projects that suit my interests :)
 - 📫 You can reach me through my mail- kalika2903@gmail.com 
 
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangaradi)](https://github.com/bangaradi/github-readme-stats) -->
+<!-- [![Spiraloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangaradi)](https://github.com/spiraloo/github-readme-stats) -->
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=spiraloo&show_icons=true&hide_border=true&hide=issues" /></th>
